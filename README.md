@@ -44,7 +44,7 @@ A command-line tool to transfer issues between GitHub repositories, preserving l
 
 The basic command structure is:
 ```bash
-node index.js <owner> <source-repo> <target-repo>
+node index.ts -- transfer <owner> <source-repo> <target-repo>
 ```
 
 
