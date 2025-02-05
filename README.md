@@ -1,4 +1,4 @@
-# GitHub Issue Transporter
+# GitHub Issues Transporter
 
 A command-line tool to transfer issues between GitHub repositories, preserving labels and maintaining parent-child relationships.
 
